@@ -1,4 +1,4 @@
-# 7SegmentFPGA
+# BCD Decoder FPGA 7-Segment Display
 Using the DE10-Lite FPGA board, created a BCD decoder displaying on a 7-segment display with Verilog.
 
 Stack: Intel Quartus, Verilog HDL
